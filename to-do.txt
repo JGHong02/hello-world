@@ -1,0 +1,24 @@
+https://youtu.be/jTJvyKZDFsY?si=rVwCe0Pnt7S4NRpv
+
+Portfolio 
+Make own git
+To do list
+Smart mirror 
+Finance tracker
+Calculator
+Neural network 
+Real time chat
+Make own redis
+Random quote generator 
+Algorithm visualizer 
+Travel booking system 
+Quiz program 
+Make own bittorrent
+HTTP Server
+Real time editor 
+Chat bot
+Video game
+Qr code generator
+
+https://github.com/practical-tutorials/project-based-learning
+https://github.com/Xtremilicious/projectlearn-project-based-learning
